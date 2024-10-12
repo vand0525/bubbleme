@@ -1,0 +1,67 @@
+<svg id="bubble" viewBox="0 0 732 732">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient-2);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="366" cy="366" fx="366" fy="366" r="366" gradientUnits="userSpaceOnUse">
+      <stop offset=".75" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".85" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".88" stop-color="#fff" stop-opacity=".03"/>
+      <stop offset=".91" stop-color="#fff" stop-opacity=".08"/>
+      <stop offset=".93" stop-color="#fff" stop-opacity=".15"/>
+      <stop offset=".95" stop-color="#fff" stop-opacity=".23"/>
+      <stop offset=".96" stop-color="#fff" stop-opacity=".34"/>
+      <stop offset=".97" stop-color="#fff" stop-opacity=".47"/>
+      <stop offset=".99" stop-color="#fff" stop-opacity=".61"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".78"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".8"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="368.01" y1="493.97" x2="368.01" y2="7.04" gradientTransform="translate(0 15.03) scale(1 .46)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".29" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".44" stop-color="#fff" stop-opacity=".04"/>
+      <stop offset=".55" stop-color="#fff" stop-opacity=".09"/>
+      <stop offset=".65" stop-color="#fff" stop-opacity=".16"/>
+      <stop offset=".74" stop-color="#fff" stop-opacity=".26"/>
+      <stop offset=".81" stop-color="#fff" stop-opacity=".38"/>
+      <stop offset=".89" stop-color="#fff" stop-opacity=".52"/>
+      <stop offset=".96" stop-color="#fff" stop-opacity=".68"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="366.17" y1="1047.77" x2="366.17" y2="568.22" gradientTransform="translate(732 1009.84) rotate(-180) scale(1 .46)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".29" stop-color="#fafafa" stop-opacity=".02"/>
+      <stop offset=".44" stop-color="#ebebeb" stop-opacity=".1"/>
+      <stop offset=".55" stop-color="#d1d1d2" stop-opacity=".23"/>
+      <stop offset=".64" stop-color="#acacad" stop-opacity=".42"/>
+      <stop offset=".73" stop-color="#7c7d7f" stop-opacity=".66"/>
+      <stop offset=".77" stop-color="#616264" stop-opacity=".8"/>
+      <stop offset=".95" stop-color="#333132" stop-opacity=".8"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="233.42" cy="100.91" fx="233.42" fy="100.91" r="102.5" gradientTransform="translate(-87.34 134.13) scale(1.2 .62)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity=".7"/>
+      <stop offset=".14" stop-color="#fff" stop-opacity=".57"/>
+      <stop offset=".48" stop-color="#fff" stop-opacity=".27"/>
+      <stop offset=".73" stop-color="#fff" stop-opacity=".07"/>
+      <stop offset=".85" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle class="cls-3" cx="366" cy="366" r="366"/>
+  <path class="cls-4" d="M672,197c40,77-156.88,43-306,43S32,285,62,197C92.21,108.4,216.88,26,366,26s262.85,87.93,306,171Z"/>
+  <path class="cls-2" d="M72,552c-38.51-85.32,145.88-59.12,295-59.12s344-37.25,288,48.12c-51.34,78.28-138.88,165.88-288,165.88s-255-66.25-295-154.88Z"/>
+  <ellipse class="cls-1" cx="191.63" cy="196.64" rx="122.5" ry="63.5" transform="translate(-82.72 207.75) rotate(-48.06)"/>
+</svg>

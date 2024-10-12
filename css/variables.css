@@ -1,0 +1,42 @@
+:root {
+    /* font-color variables */
+	--primary-font-color: black;
+    --secondary-font-color: white;
+
+    /* font stacks */
+    --primary-font-stack: "Roboto", sans-serif;
+
+	/* font-size variables */
+	--type-scale-baseline: 1rem;
+	--type-scale-h1: 1.802rem;
+	--type-scale-h2: 1.602rem;
+	--type-scale-h3: 1.424rem;
+	--type-scale-h4: 1.266rem;
+	--type-scale-h5: 1.125rem;
+	--type-scale-h6: var(--type-scale-baseline);
+}
+
+/* media queries */
+/* typography */
+@media only screen and (min-width: 45rem) {
+	:root {
+		--type-scale-h1: 3.052rem;
+		--type-scale-h2: 2.441rem;
+		--type-scale-h3: 1.953rem;
+		--type-scale-h4: 1.563rem;
+		--type-scale-h5: 1.25rem;
+		/* --type-scale-baseline: 1.1rem; */
+	}
+}
+
+@media only screen and (min-width: 60rem) {
+	:root {
+		--type-scale-h1: 4.209rem;
+		--type-scale-h2: 3.157rem;
+		--type-scale-h3: 2.369rem;
+		--type-scale-h4: 1.777rem;
+		--type-scale-h5: 1.333rem;
+		/* --type-scale-baseline: 1.2rem; */
+	}
+}
+
